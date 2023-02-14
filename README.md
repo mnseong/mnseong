@@ -2,7 +2,7 @@
 
 | Period        | Career        | Position                 |
 | ------------- | ------------- | ------------------------ |
-| 23.01 ~       | PNU VIP LAB   | Undergraduate Researcher |
+| 23.01 ~       | PNU VIP Lab   | Undergraduate Researcher |
 | 22.08.19 ~ 21 | JUNCTIONASIA  | Developer                |
 | 22.03 ~       | (주) 샌드버그 | Software Engineer        |
 
