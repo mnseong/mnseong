@@ -1,10 +1,11 @@
 ## Experience
 
-| Period        | Career                    | Position                 |
-| ------------- | ------------------------- | ------------------------ |
-| 23.07 ~       | ETRI (한국전자통신연구원) | Research Intern          |
-| 23.01 ~       | PNU VIP Lab               | Undergraduate Researcher |
-| 22.08.19 ~ 21 | JUNCTIONASIA              | Developer                |
-| 22.03 ~       | (주) 샌드버그             | Software Engineer        |
+| Period        | Career        | Position                 |
+| ------------- | ------------- | ------------------------ |
+| 23.07 ~ 23.08 | AI Lab - ETRI | Research Intern          |
+| 23.01 ~       | VIP Lab - PNU | Undergraduate Researcher |
+| 22.03 ~       | SANDBURG Inc. | Software Engineer        |
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=9oo_rok98)](https://solved.ac/9oo_rok98)
+#### Keywords
+
+Machine Learning, Image Retrieval, Visual Localization, SLAM
