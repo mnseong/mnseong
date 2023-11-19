@@ -6,6 +6,8 @@
 | 23.01 ~       | VIP Lab - PNU | Undergraduate Researcher |
 | 22.03 ~       | SANDBURG Inc. | Software Engineer        |
 
-#### Keywords
+### Interests
+
+---
 
 Machine Learning, Image Retrieval, Visual Localization, SLAM
