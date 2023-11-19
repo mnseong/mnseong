@@ -8,6 +8,4 @@
 
 ### Interests
 
----
-
 Machine Learning, Image Retrieval, Visual Localization, SLAM
